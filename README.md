@@ -46,7 +46,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jegonzalezvega&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-
+#### 👁️ Visitors
 <!-- Contador de visitas con ícono de ojo -->
 [![Visitas](https://img.shields.io/endpoint?url=https://api.countapi.xyz/hit/jegonzalezvega/visitas)](https://visitcount.itsvg.in) 
 ![Ojo](https://img.icons8.com/ios-filled/50/000000/visible.png)
